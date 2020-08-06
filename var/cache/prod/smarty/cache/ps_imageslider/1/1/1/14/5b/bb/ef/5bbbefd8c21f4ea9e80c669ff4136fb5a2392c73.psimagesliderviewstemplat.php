@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-08-05 18:15:37
+/* Smarty version 3.1.33, created on 2020-08-06 22:30:00
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5f2adb29d63336_89418339',
+  'unifunc' => 'content_5f2c68487db3c1_76174382',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,42 +18,18 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5f2adb29d63336_89418339 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5f2c68487db3c1_76174382 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
     <ul class="carousel-inner" role="listbox">
               <li class="carousel-item active" role="option" aria-hidden="false">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-PL&amp;utm_content=download">
+          <a href="http://localhost/Glinka/pl/10-suplementy-glinka">
             <figure>
-              <img src="http://localhost/Glinka/modules/ps_imageslider/images/sample-1.jpg" alt="sample-1">
+              <img src="http://localhost/Glinka/modules/ps_imageslider/images/412c75301b8e701b463ffb3be76c8e74f580ba58_Glinka.png" alt="Glinka">
                               <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 1</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
-                          </figure>
-          </a>
-        </li>
-              <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-PL&amp;utm_content=download">
-            <figure>
-              <img src="http://localhost/Glinka/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 2</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
-                          </figure>
-          </a>
-        </li>
-              <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-PL&amp;utm_content=download">
-            <figure>
-              <img src="http://localhost/Glinka/modules/ps_imageslider/images/sample-3.jpg" alt="sample-3">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 3</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                  <h2 class="display-1 text-uppercase">Glinka</h2>
+                  <div class="caption-description"><h3>Sprawdź naszą ofertę!</h3>
+<p>Najlepsze produkty Glinka na wyciągnięcie Twojej ręki.</p></div>
                 </figcaption>
                           </figure>
           </a>

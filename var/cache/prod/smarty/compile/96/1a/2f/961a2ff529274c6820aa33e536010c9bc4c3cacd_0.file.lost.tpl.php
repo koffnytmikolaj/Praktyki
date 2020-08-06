@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-08-05 18:09:49
+/* Smarty version 3.1.33, created on 2020-08-06 22:36:11
   from 'C:\xampp2\htdocs\Glinka\modules\welcome\views\templates\lost.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5f2ad9cd451571_58177533',
+  'unifunc' => 'content_5f2c69bb4e2a86_08587629',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5f2ad9cd451571_58177533 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5f2c69bb4e2a86_08587629 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding onboarding-popup bootstrap">
   <div class="content">

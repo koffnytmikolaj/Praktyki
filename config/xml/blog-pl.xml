@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pl/blog/feed.xml</link>
+    <description></description>
+    <language>pl</language>
+     <atom:link href="https://www.prestashop.com/pl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Pięć podstawowych modułów pozwalających na przygotowanie się do nowego roku szkolnego</title>
+    <link>https://www.prestashop.com/pl/blog/powrot-do-szkoly-wybor-modulow</link>
+    <description>Choć lato, wyprzedaże i wakacje są jeszcze w pełni, szybko zbliża się czas powrotu do szkoły we wrześniu 2020 r.</description>
+     <pubDate>Fri, 31 Jul 2020 16:01:37 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/powrot-do-szkoly-wybor-modulow</guid>
+  </item>
+  <item>
+    <title>9 prostych, ale kluczowych, wskazówek, które pozwolą ci stworzyć lepszy landing page</title>
+    <link>https://www.prestashop.com/pl/blog/landing-page-wskazowki</link>
+    <description>Landing page na dobre zaistniał w krajobrazie marketingu internetowego.</description>
+     <pubDate>Fri, 17 Jul 2020 17:53:56 +0200</pubDate>
+ <dc:creator>Łukasz Gwara</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/landing-page-wskazowki</guid>
+  </item>
+  <item>
+    <title>Logistyka kryzysu: jak ważne jest zagwarantowanie business continuity</title>
+    <link>https://www.prestashop.com/pl/blog/logistyka-kryzysu-business</link>
+    <description>Już  mówiliśmy o wpływie coronawirusa na świat e-commerce i ogólnie na rynek, to wydarzenie zupełnie nieoczekiwane zrewolucjonizowało wiele sektorów naszego życia.</description>
+     <pubDate>Thu, 02 Jul 2020 18:29:00 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/logistyka-kryzysu-business</guid>
+  </item>
+  <item>
+    <title>Od startup do scaleup: narzędzia potrzebne do rozwoju przedsiębiorstwa</title>
+    <link>https://www.prestashop.com/pl/blog/startup-scaleup-ecommerce</link>
+    <description>Rozmawiając o świecie biznesu i o świecie przedsiębiorstw łatwo jest popaść w błąd porównywania startup do małych przedsiębiorstw i scaleup do dużych przedsiębiorstw.</description>
+     <pubDate>Thu, 02 Jul 2020 17:56:44 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/startup-scaleup-ecommerce</guid>
+  </item>
+  <item>
+    <title>Jak ważna jest opieka nad consumer journey dla twojego e-commerce</title>
+    <link>https://www.prestashop.com/pl/blog/consumer-journey-e-commerce</link>
+    <description>Kiedy się prowadzi e-commerce bardzo ważne jest aby znać proces, który prowadzi konsumenta do zdania sobie sprawy z tego jak bardzo potrzebuje jakiegoś produktu aż do zaufania co do lojalności mark</description>
+     <pubDate>Thu, 02 Jul 2020 17:17:17 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/consumer-journey-e-commerce</guid>
+  </item>
+  <item>
+    <title>Koronawirus, pandemia która sprzyjała największej operacji transformacji cyfrowej</title>
+    <link>https://www.prestashop.com/pl/blog/koronawirus-transformacji-cyfrowej</link>
+    <description>Polska była jednym z krajów europejskich , który zareagował najszybciej i najmocniej aby ograniczyć jak najbardziej epidemie Covid-19.</description>
+     <pubDate>Mon, 29 Jun 2020 17:43:00 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/koronawirus-transformacji-cyfrowej</guid>
+  </item>
+  <item>
+    <title>Przygotowanie do letniej wyprzedaży: 8 niezbędnych modułów</title>
+    <link>https://www.prestashop.com/pl/blog/niezbednych-modulow-wyprzedazy</link>
+    <description>Lato już tu jest i, jak wiesz, wraz z tą piękną porą roku nadchodzi okres </description>
+     <pubDate>Fri, 26 Jun 2020 16:49:50 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/niezbednych-modulow-wyprzedazy</guid>
+  </item>
+  <item>
+    <title>PrestaShop (e)Commerce Week: międzynarodowy tydzień konferencji online</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-ecommerce-week-2020</link>
+    <description>Jako uprzywilejowany partner w cyfrowej transformacji przedsiębiorstw, PrestaShop ma przyjemność zorganizować </description>
+     <pubDate>Thu, 11 Jun 2020 09:59:45 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-ecommerce-week-2020</guid>
+  </item>
+  <item>
+    <title>Wybór 10 modułów do optymalizacji obsługi klienta w Twoim sklepie internetowym</title>
+    <link>https://www.prestashop.com/pl/blog/wspolczynnik-konwersji-klienta</link>
+    <description>Strona e-commerce to o wiele więcej niż tylko katalog online, to także przyjemność z przeglądania stron internetowych dl</description>
+     <pubDate>Mon, 08 Jun 2020 14:15:29 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wspolczynnik-konwersji-klienta</guid>
+  </item>
+  <item>
+    <title>Zwiększenie współczynnika konwersji dzięki lepszemu zarządzaniu koszykami zakupowymi</title>
+    <link>https://www.prestashop.com/pl/blog/koszyk-kurs-2020</link>
+    <description>W przeciwieństwie do znanego powiedzenia, jeśli chodzi o e-commerce, lepiej jest, aby klienci postawili wszystko na jedn</description>
+     <pubDate>Mon, 11 May 2020 15:49:39 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/koszyk-kurs-2020</guid>
+  </item>
+  </channel>
+</rss>

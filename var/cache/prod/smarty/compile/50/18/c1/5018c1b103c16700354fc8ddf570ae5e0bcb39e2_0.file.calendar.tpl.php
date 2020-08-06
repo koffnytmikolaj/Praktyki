@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-08-05 18:09:53
+/* Smarty version 3.1.33, created on 2020-08-06 22:36:14
   from 'C:\xampp2\htdocs\Glinka\admin622pf0ipu\themes\default\template\helpers\calendar\calendar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5f2ad9d1c66de8_26403611',
+  'unifunc' => 'content_5f2c69be946a01_82522316',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5f2ad9d1c66de8_26403611 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5f2c69be946a01_82522316 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="datepicker" class="row row-padding-top hide">
 	<div class="col-lg-12">
 		<div class="daterangepicker-days">
